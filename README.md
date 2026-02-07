@@ -34,5 +34,5 @@ Thank you for reviewing my submission!
 
 For any inquiries or feedback regarding this project, please contact:
 
-- <a href="https://www.linkedin.com/in/pradeep-d-626384297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/">Pradeep D</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/pradeep-d-626384297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/">Pradeep D</a>
 - Email: pradeepkushwahvk18@gmail.com
